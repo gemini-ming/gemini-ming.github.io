@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-Host: https://gemini-ming.github.io/
-Sitemap: https://gemini-ming.github.io/sitemap.xml
